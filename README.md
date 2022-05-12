@@ -1,6 +1,6 @@
-### Hi there 👋, I am Anh !
+## Hi there 👋, I am Anh !
 
-## I'm a Student and I'm studying for becoming a Web Developer !
+### I'm a Student and I'm studying for becoming a Web Developer !
 
 - 🎓 I'm currently studying at IUT of Blois.
 - 🔭 I'm currently working and learning on Web Development and also a little bit on Graphic Designer and Communication.
